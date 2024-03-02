@@ -4,7 +4,10 @@ En este repositorio se incluyen los proyectos trabajados en el Bootcamp de Tripl
 La metodología es por sprint, en donde cada uno abarfca un tema y proyecto específico
 
 ## Sprint 1: Python básico
-Descripción
+En este sprint revisamos los fundamentos de Python, en donde revisamos temas como:
+-Tipos de datos
+-Ciclos
+-Listas anidadas
 
 ## Sprint 2: Pandas
 Descripción
